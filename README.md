@@ -67,7 +67,12 @@ hangman-game/
 2. Open `index.html` in your web browser
 3. Start playing immediately!
 
-## 🌟 Game Features
+## � Play Online
+**🔗 [Play the Game Here](https://youssefali20022.github.io/Hangman-Game/)**
+
+Experience the game directly in your browser without any installation!
+
+## �🌟 Game Features
 - **8 Wrong Attempts** - Progressive hangman drawing
 - **Sound Feedback** - Success and failure sounds
 - **Smooth Animations** - CSS transitions and effects
